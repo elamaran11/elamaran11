@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=elamaran11&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=elamaran11&layout=compact)
+
 <!--
 **elamaran11/elamaran11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,6 +36,3 @@ I am a Sr. Specialist Solutions Architect, Containers at AWS.
   - [AWS EKS Observability Accelerator](https://github.com/aws-observability/aws-observability-accelerator)
   - [AWS AppMesh](https://github.com/aws/aws-app-mesh-examples/tree/master/blogs/envoy-cw-dashboards)
   - [Airflow on Amazon EKS](https://github.com/aws-samples/airflow-for-amazon-eks-blog.git)
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=elamaran11&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=elamaran11&layout=compact)
