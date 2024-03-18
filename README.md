@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Elamaran (Ela). I do many things with Kubernetes, Cloud Native and Open Source!" src="./assets/gh-readme-header.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Elamaran (Ela). I do many things with Kubernetes, Cloud Native and Open Source!" src="./Ela-github.png" /></p>
 
 <br />
 
