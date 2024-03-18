@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 -->
 I am a Sr. Specialist Solutions Architect, Containers at AWS.
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 - 🔭 I’m currently an active maintainer of [Amazon EKS Blueprints for CDK](https://github.com/aws-quickstart/cdk-eks-blueprints/tree/main), a framework used by AWS customers, partners, and internal AWS teams to configure and manage complete EKS clusters that are fully bootstrapped with the operational software that is needed to deploy and operate workloads.
 - 🔭 I’m the creator and an active maintainer of [AWS Observability Accelerator for CDK](https://github.com/aws-observability/cdk-aws-observability-accelerator), which is a set of opinionated modules to help you set up observability for your AWS environments with AWS Native services and AWS-managed observability services such as Amazon Managed Service for Prometheus,Amazon Managed Grafana, AWS Distro for OpenTelemetry (ADOT) and Amazon CloudWatch.
 - 🔭 I’m the creator and an active maintainer of [Amazon EKS Anywhere (EKS-A) Conformance and Validation Framework](https://github.com/aws-samples/eks-anywhere-addons), a framework which provides an expandable and extensible approach to run conformance testing on different EKS deployment models such as EKS-A on VMware (VMC), EKS-A on Bare Metal, EKS-A on Snow , EKS-A on Nutanix and Local clusters for Amazon EKS on AWS Outposts. It allows running Kubernetes conformance testing, Partner and OSS add-on deployment and validation on EKS-A environments and helps Partners validate their hardware (IHV) and software (ISV) solutions deployed on variety of EKS environments.
