@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=elamaran11&show_icons=true&theme=merko)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=elamaran11&theme=merko)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=elamaran11&layout=compact&theme=merko)
 
 <!--
 **elamaran11/elamaran11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
