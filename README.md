@@ -1,7 +1,6 @@
 <p align="center"><img width="80%" alt="Hello, I'm Elamaran (Ela). I do many things with Kubernetes, Cloud Native and Open Source!" src="./Ela-github-profile.png" /></p>
 
 <br />
-<center>
 <a href= "https://www.linkedin.com/in/elashan2023/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
@@ -11,7 +10,6 @@
 <a href= "https://twitter.com/IamElaShan/">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
 </a>
-</center>
 <br>
 <br>
 
