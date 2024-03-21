@@ -4,9 +4,6 @@
 <a href= "https://www.linkedin.com/in/elashan2023/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
-<a href= "mailto:elamaran.shan@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
-</a>
 <a href= "https://twitter.com/IamElaShan/">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
 </a>
