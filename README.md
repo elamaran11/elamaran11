@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 <a href= "https://twitter.com/IamElaShan/">
-  <img src="https://img.shields.io/badge/-Twitter-fedcba?style=flat&logo=Twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
 </a>
 <br>
 <br>
