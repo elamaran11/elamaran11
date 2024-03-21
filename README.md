@@ -2,6 +2,15 @@
 
 <br />
 
+<a href= "https://www.linkedin.com/in/elashan2023/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href= "mailto:elamaran.shan@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<br>
+<br>
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=elamaran11&show_icons=true&theme=merko)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=elamaran11&layout=compact&theme=merko)
 
