@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Sr. Specialist Solutions Architect, Containers at AWS. Here is a pre-release of my first book, check this link for early access - https://mng.bz/8O6W
+I am a Sr. Specialist Solutions Architect, Containers at AWS. Here is a pre-release of my first book on [Real-World ML Systems on Kubernetes](https://mng.bz/8O6W).
 
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
