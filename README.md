@@ -29,13 +29,31 @@ Here are some ideas to get you started:
 -->
 I am a Sr. Specialist Solutions Architect, Containers at AWS. Here is a pre-release of my first book on [Real-World ML Systems on Kubernetes](https://shortener.manning.com/8O6W).
 
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![AWS](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![Flask](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![HTML](https://img.shields.io/badge/Markup%20Language-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
+![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![JSON](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=JSON&logoColor=white&color=2bbc8a)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
+![Markdown](https://img.shields.io/badge/Markup%20Language-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=2bbc8a)
+![Jupyter Notebook](https://img.shields.io/badge/Computing%20Platform-Jupyter%20Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
+![Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
+![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
+![Pytorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
+![Pandas](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
+![Numpy](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
+![Docker Engine](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
+![VMWare](https://img.shields.io/badge/Virtualization-VMWare-informational?style=flat&logo=VMWare&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently an active maintainer of [Amazon EKS Blueprints for CDK](https://github.com/aws-quickstart/cdk-eks-blueprints/tree/main), a framework used by AWS customers, partners, and internal AWS teams to configure and manage complete EKS clusters that are fully bootstrapped with the operational software that is needed to deploy and operate workloads.
 - 🔭 I’m the creator and an active maintainer of [AWS Observability Accelerator for CDK](https://github.com/aws-observability/cdk-aws-observability-accelerator), which is a set of opinionated modules to help you set up observability for your AWS environments with AWS Native services and AWS-managed observability services such as Amazon Managed Service for Prometheus,Amazon Managed Grafana, AWS Distro for OpenTelemetry (ADOT) and Amazon CloudWatch.
