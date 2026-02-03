@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Elamaran (Ela). I do many things with Containers, Kubernetes, Cloud Native and Open Source!" src="./Ela-github-profile.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Elamaran (Ela). I do many things with Containers, Kubernetes, AIML, Gen AI, Cloud Native and Open Source!" src="./Ela-github-profile.png" /></p>
 
 <br />
 <a href= "https://www.linkedin.com/in/elashan2023/">
